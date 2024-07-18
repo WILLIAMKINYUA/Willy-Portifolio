@@ -1,0 +1,23 @@
+.headtitle3{font-family: 'Times New Roman', Times, serif;
+font-size: 45px;
+font-weight: 600;
+font-style: oblique;
+text-transform: capitalize;
+letter-spacing: 1px;
+margin-top:9% ;
+margin-left: 5%;
+margin-bottom: 3%}
+.paratwo{ font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 34px;
+    font-weight: 100;
+    margin-left: 10%;
+    margin-right: 9%;
+    margin-bottom: 7%;}
+.division{display: flex;
+flex-direction: row;
+}
+.leftside{
+    margin-left:10% ;
+    width: 35vw;
+}.rightside{margin-left: 5%;
+    width: 35vw;}

@@ -1,0 +1,35 @@
+.phase2box{
+    display: flex;
+    flex-direction: row;
+    margin-top: 9%;
+}
+section{border:1px solid rgb(0, 46, 252);
+    margin-left: 5%; 
+    width: 23%;
+    height: 12%;
+    
+}
+.box{
+    margin-left: 6%;
+    margin-right: 6%;
+    margin-bottom: 8%;
+}
+.boxicon{margin-left: 6%;
+margin-top: 5%;}
+.topichead{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 21px;
+    font-weight: 800;
+    color: rgb(55, 54, 54);
+    margin-top: 8%;
+    margin-bottom: 2%; margin-left: 18%;
+}
+.topicpara{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 25px;
+     
+     color: rgb(55, 54, 54);
+     margin-left: 18%;
+     margin-right: 7%;
+     margin-bottom: 1%;
+}

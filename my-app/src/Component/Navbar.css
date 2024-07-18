@@ -1,0 +1,66 @@
+*{padding: 0;
+  margin: 0;
+box-sizing: border-box;}
+.navbar{
+    display: flex;
+    flex-direction: row;
+    
+ background-color: rgb(22, 21, 21);
+  height:10vh;
+  color: #ffffff;
+}
+.logo{
+    margin-left: 2%;
+    margin-top: 1%;
+    font-weight: 800;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size:24px;
+    
+}
+.navlink{
+    margin-left: 15%;
+    margin-top: 2%;
+}
+.link{ text-decoration: none;
+    list-style: none;color: white;
+    font-weight: 400;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    cursor: pointer;
+    margin-left: 10%;padding: 10px 23px;
+}
+.link:hover{ border-radius: 9px;
+    border: 2px solid ;
+    background-color: orangered;
+    padding: 9px 23px;
+   color: black;
+    font-weight: 400;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    cursor: pointer;
+    
+}.reach{
+   margin-top: 2%;
+margin-left:16%;
+
+}
+.contactlink{border-radius: 9px;text-decoration: none;
+    list-style: none;
+    border: 2px solid ;
+    background-color: orangered;
+   padding:10px 43px ;
+   color: black;
+    font-weight: 500;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    cursor: pointer;
+
+}
+.linkcontact:hover{border-radius: 9px;text-decoration: none;
+    list-style: none;
+    border: 2px solid ;
+    background-color: orange;
+   padding:10px 43px ;
+   color: black;
+    font-weight: 500;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    cursor: pointer;
+
+}

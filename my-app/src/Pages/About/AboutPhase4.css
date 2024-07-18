@@ -1,0 +1,22 @@
+.division{display: flex;
+    flex-direction: row;
+    }
+    .leftside{
+        margin-left:10% ;
+        width: 35vw;
+    }.rightside{margin-left: 5%;
+        width: 35vw;}
+        .subtitle3{font-family: 'Times New Roman', Times, serif;
+        font-size: 25px;
+        font-weight: 200;
+        font-style: oblique;
+        text-transform: capitalize;
+        margin-top:2% ;
+        margin-left: 10%;
+        margin-bottom: 3%}
+        .paratwos{font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+            font-size: 24px;
+            font-weight: 100;
+            margin-left: 10%;
+            margin-right: 2%;
+            margin-bottom: 7%;}

@@ -1,0 +1,51 @@
+.phase3box{
+    display: flex;
+    flex-direction: row;
+    margin-top: 6%;
+}
+.sectionleft{width: 50%;}
+.imageSection{
+    width: 95%;
+    height: 90vh;
+    margin-bottom: 12%;
+}
+.sectionright{
+    width: 45%;
+    margin-left: 9%;
+    margin-top: 1%;
+    margin-right: 10%;
+}
+.sectiontopic{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 28px;
+    font-weight: 800;
+    color: rgb(55, 54, 54);
+    margin-top: 5%;
+    margin-bottom: 2%; 
+}
+.paraSection{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 25px;
+     
+     color: rgb(55, 54, 54);
+     
+     margin-right: 7%;
+     margin-bottom: 4%;
+}
+.subsectiontopic{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 21px;
+    font-weight: 800;
+    color: rgb(55, 54, 54);
+    
+    margin-bottom: 3%;
+}
+.threelogo{
+    display: flex;
+    flex-direction: row;
+    margin-left: 2%;
+}
+.logoicon{
+    width: 54%;
+    height: 53%;
+}

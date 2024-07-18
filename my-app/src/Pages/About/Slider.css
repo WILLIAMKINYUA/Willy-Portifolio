@@ -1,0 +1,44 @@
+.slider{
+    display: flex;
+    flex-direction: column;
+background-color: burlywood;
+
+}
+.card{
+    width: 10%;
+    height: 70%;
+    border-radius: 13px;
+    
+}
+.companyname{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 34px;
+    font-weight: 600;
+    color: black;
+}
+.companyimage{
+    border-radius: 45%;
+width: 100px;
+height: 100px;
+}
+.rank{font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 22px;
+    font-weight: 200;
+    color: rgb(129, 141, 2);
+    text-transform: uppercase;
+   margin-bottom:4%;
+}
+.paraSlider{font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    font-weight: 100;
+    margin-left: 5%;
+    margin-right:8%;
+  
+
+}
+.buttonNew{
+    background-color: chartreuse;
+    margin-left: 0.5%;
+    color: black;
+    padding: 10px 23px;
+}

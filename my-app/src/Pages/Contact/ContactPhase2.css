@@ -1,0 +1,17 @@
+.phase1head{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 45px;
+    font-weight: 800;
+    color: rgb(55, 54, 54);
+    margin-top: 4%;
+    margin-bottom: 1%;
+}
+.phase1para{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+   font-size: 25px;
+    font-weight: 100;
+    color: rgb(55, 54, 54);
+    margin-left: 18%;
+    margin-right: 7%;
+    margin-bottom: 1%;
+}
