@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/Willy-Portifolio/static/css/main.16d70804.css",
+    "main.js": "/Willy-Portifolio/static/js/main.cf225e4d.js",
+    "static/media/pexels-christina-morillo-1181391.jpg": "/Willy-Portifolio/static/media/pexels-christina-morillo-1181391.7fc902b22b8a7c28b1d9.jpg",
+    "static/media/pexels-andrea-piacquadio-3771839.jpg": "/Willy-Portifolio/static/media/pexels-andrea-piacquadio-3771839.166afc20e2006cf45716.jpg",
+    "static/media/pexels-johnmark-smith-281962.jpg": "/Willy-Portifolio/static/media/pexels-johnmark-smith-281962.595287a924e3b3d465fd.jpg",
+    "static/media/male-portrait-1156365_1280.jpg": "/Willy-Portifolio/static/media/male-portrait-1156365_1280.bd906fde44c4a07ea093.jpg",
+    "static/media/businessman-1247947_1280.jpg": "/Willy-Portifolio/static/media/businessman-1247947_1280.d2d2a26984567ef26fdc.jpg",
+    "static/media/Portifolio Image.png": "/Willy-Portifolio/static/media/Portifolio Image.339c30c60e373b3e5256.png",
+    "static/media/react.png": "/Willy-Portifolio/static/media/react.35639ed930462bfcd544.png",
+    "static/media/resumeIcon.PNG": "/Willy-Portifolio/static/media/resumeIcon.60324567af4009f4fa60.PNG",
+    "static/media/html-5.png": "/Willy-Portifolio/static/media/html-5.cfb2ba4a6b1c3de295bc.png",
+    "static/media/css-3.png": "/Willy-Portifolio/static/media/css-3.4a6549b8c2b4cda8bb88.png",
+    "static/media/js.png": "/Willy-Portifolio/static/media/js.3dfb665e058d08c99f28.png",
+    "static/media/slick.svg": "/Willy-Portifolio/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/Willy-Portifolio/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/Willy-Portifolio/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/Willy-Portifolio/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/Willy-Portifolio/index.html",
+    "main.16d70804.css.map": "/Willy-Portifolio/static/css/main.16d70804.css.map",
+    "main.cf225e4d.js.map": "/Willy-Portifolio/static/js/main.cf225e4d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.16d70804.css",
+    "static/js/main.cf225e4d.js"
+  ]
+}
